@@ -1,28 +1,33 @@
-# ⚡ Sudarshan Chakra — 3D WebGL Experience
+# 🎮 Three.js Projects
 
-A real-time 3D Sudarshan Chakra built with Three.js and WebGL. Featuring concentric golden rings, radial spikes, and smooth rotation with orbit controls.
+A collection of real-time 3D WebGL experiences built with Three.js and Vanilla JavaScript.
 
-## 🌐 Live Demo
-[three-js-wheat-zeta.vercel.app](https://three-js-wheat-zeta.vercel.app)
+---
 
-## ✨ Features
-- Concentric golden rings with radial spikes
-- Smooth rotation animation
-- Orbit controls (drag to rotate, scroll to zoom)
-- Physically-based gold material with realistic lighting
+## 🚀 Projects
 
-## 🛠 Built With
+### ⚡ Sudarshan Chakra
+A 3D golden Sudarshan Chakra with concentric rings, radial spikes, and smooth orbit controls.
+
+🌐 **Live Demo** → [three-js-wheat-zeta.vercel.app](https://three-js-wheat-zeta.vercel.app)
+
+---
+
+### 🟥 Rotating Cube
+An interactive 3D cube with visible black edges and orbit controls.
+
+🌐 **Live Demo** → [three-js-cube-blue.vercel.app](https://three-js-cube-blue.vercel.app)
+
+---
+
+## 🛠 Tech Stack
 - [Three.js](https://threejs.org) — 3D WebGL library
 - Vanilla JavaScript
+- HTML5 Canvas
 - Deployed on [Vercel](https://vercel.com)
 
-## 🚀 Run Locally
-```bash
-git clone https://github.com/Jitendra-Kumarr/Three-js.git
-cd "Three Js/SudarshanChakra"
-npm install
-npm run dev
-```
+---
 
 ## 👨‍💻 Author
-**Jitendra Kumar**
+**Jitendra Kumar**  
+[![GitHub](https://img.shields.io/badge/GitHub-Jitendra--Kumarr-black?logo=github)](https://github.com/Jitendra-Kumarr)
